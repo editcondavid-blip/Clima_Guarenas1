@@ -44,3 +44,4 @@ jobs:
         with:
           name: Clima-Guarenas-APK
           path: build/apk/*.apk
+          #activar tarea
